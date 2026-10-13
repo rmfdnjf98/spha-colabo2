@@ -1,1 +1,2 @@
-컨플릿 파일
+print("conflict.txt");
+== conflict.txt 파일입니다.
